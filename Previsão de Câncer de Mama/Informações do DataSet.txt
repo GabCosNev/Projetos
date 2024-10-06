@@ -1,0 +1,38 @@
+Informações do Conjunto de Dados
+
+As amostras chegam periodicamente à medida que o Dr. Wolberg relata seus casos clínicos. Portanto, o banco de dados reflete esse agrupamento cronológico dos dados. Essas informações de agrupamento aparecem logo abaixo, tendo sido removidas dos dados em si:
+
+Grupo 1: 367 instâncias (Janeiro de 1989)
+Grupo 2: 70 instâncias (Outubro de 1989)
+Grupo 3: 31 instâncias (Fevereiro de 1990)
+Grupo 4: 17 instâncias (Abril de 1990)
+Grupo 5: 48 instâncias (Agosto de 1990)
+Grupo 6: 49 instâncias (Atualizado em Janeiro de 1991)
+Grupo 7: 31 instâncias (Junho de 1991)
+Grupo 8: 86 instâncias (Novembro de 1991)
+Total: 699 pontos (com base no banco de dados doado em 15 de Julho de 1992)
+
+Observe que os resultados resumidos acima em Uso Anterior referem-se a um conjunto de dados de tamanho 369, enquanto o Grupo 1 tem apenas 367 instâncias. Isso ocorre porque originalmente continha 369 instâncias; 2 foram removidas. As seguintes declarações resumem as mudanças no conjunto de dados original do Grupo 1:
+
+Grupo 1: 367 pontos: 200B 167M (Janeiro de 1989)
+Revisado em 10 de Janeiro de 1991: Substituídos núcleos nus zero em 1080185 e 1187805
+Revisado em 22 de Novembro de 1991: Removidos 765878, 4, 5, 9, 7, 10, 10, 10, 3, 8, 1 sem registro
+: Removidos 484201, 2, 7, 8, 8, 4, 3, 10, 3, 4, 1 epitelial zero
+: Alterado 0 para 1 no campo 6 da amostra 1219406
+: Alterado 0 para 1 no campo 8 da seguinte amostra:
+: 1182404, 2, 3, 1, 1, 1, 2, 0, 1, 1, 1
+
+Número do código da amostra: número de identificação
+1- Espessura do aglomerado: 1 - 10
+2- Uniformidade do tamanho celular: 1 - 10
+3- Uniformidade da forma celular: 1 - 10
+4- Aderência marginal: 1 - 10
+5- Tamanho da célula epitelial única: 1 - 10
+6- Núcleos nus: 1 - 10
+7- Cromatina pálida: 1 - 10
+8- Nucléolos normais: 1 - 10
+9- Mitoses: 1 - 10
+10- Classe: (2 para benigno, 4 para maligno)
+Rótulos de Classe
+
+2 = benigno, 4 = maligno
