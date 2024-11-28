@@ -44,7 +44,7 @@ Variáveis de entrada:
         * 5 - default: possui crédito em atraso? (binário: "yes", "no")
         * 6 - balance: saldo médio anual, em euros (numérico)
         * 7 - housing: possui empréstimo habitacional? (binário: "yes", "no")
-    8 - loan: possui empréstimo pessoal? (binário: "yes", "no")
+    	* 8 - loan: possui empréstimo pessoal? (binário: "yes", "no")
     Relacionados ao último contato da campanha atual:
     9 - contact: tipo de comunicação do contato (categórico: "unknown", "telephone", "cellular")
     10 - day: dia do último contato do mês (numérico)
@@ -56,6 +56,6 @@ Variáveis de entrada:
         * 15 - previous: número de contatos realizados antes desta campanha para este cliente (numérico)
         * 16 - poutcome: resultado da campanha de marketing anterior (categórico: "unknown", "other", "failure", "success")
     Variável de saída (alvo desejado):
-        * 17 - y: o cliente subscreve um depósito a prazo? (binário: "yes", "no") Investimento
+        * 17 - y: o cliente subscreve um depósito a prazo? (binário: "yes", "no")
 
 7. Valores de Atributos Ausentes: Nenhum
