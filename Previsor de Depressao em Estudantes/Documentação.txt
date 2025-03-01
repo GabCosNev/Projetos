@@ -1,0 +1,28 @@
+Sobre o Conjunto de Dados
+
+Um conjunto de dados sobre depressão estudantil normalmente contém informações voltadas para analisar, entender e prever os níveis de depressão entre estudantes. Pode incluir características como informações demográficas (idade, gênero), desempenho acadêmico (notas, presença), hábitos de estilo de vida (padrões de sono, exercícios, atividades sociais), histórico de saúde mental e respostas a escalas padronizadas de depressão.
+
+Esses conjuntos de dados são valiosos para pesquisas em psicologia, ciência de dados e educação, a fim de identificar fatores que contribuem para a depressão entre estudantes e criar estratégias de intervenção precoce. Considerações éticas, como privacidade, consentimento informado e anonimização dos dados, são cruciais ao trabalhar com essas informações sensíveis.
+
+Estrutura do Arquivo
+Formato: Formato CSV
+Linhas: Cada linha representa um estudante individual.
+Colunas: Cada coluna representa uma característica ou atributo específico.
+
+Colunas
+
+ID: Identificador único para cada estudante.
+Idade: Idade do estudante.
+Gênero: Gênero (ex: Masculino, Feminino).
+Cidade: Região geográfica.
+CGPA: Média de notas ou outros índices acadêmicos.
+Duração do Sono: Duração média diária de sono.
+Profissão: Profissão do estudante.
+Pressão no Trabalho: Nível de pressão relacionada ao trabalho.
+Pressão Acadêmica: Nível de pressão relacionada aos estudos.
+Satisfação com os Estudos: Nível de satisfação com os estudos.
+Satisfação no Trabalho: Nível de satisfação no trabalho.
+Hábitos Alimentares: Padrões alimentares do estudante.
+E muito mais.
+
+link: https://www.kaggle.com/datasets/hopesb/student-depression-dataset
