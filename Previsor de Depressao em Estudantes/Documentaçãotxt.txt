@@ -54,6 +54,7 @@ Depressão
 
 Separação e Transformação dos Dados
 Divisão dos Dados: 80% treino e 20% teste, sem aleatorização na divisão de dados.
+Divisão Validação: 72% treino e 8% validação, sem aleatorização na divisão de dados.
 LabelEncoder: para converter as colunas que continham duas categorias de strings para 0 e 1.
 MinMaxScaler: Normalização das colunas no qual eu não utilizei LabelEncoder.
 OneHotEncoder: Para converter colunas com mais de duas categorias de string, para criar variáveis dummy.
@@ -80,14 +81,15 @@ Matriz de confusão, para visualizar a classificação correta e incorreta dos d
 
 Métricas Finais
 
-  precision    recall  f1-score   support
+             precision    recall  f1-score   support
 
-           0       0.85      0.83      0.84      2363
-           1       0.85      0.86      0.86      2563
+           0       0.84      0.83      0.83      2319
+           1       0.85      0.86      0.85      2607
 
-    accuracy                           0.85      4926
-   macro avg       0.85      0.85      0.85      4926
-weighted avg       0.85      0.85      0.85      4926
+    accuracy                           0.84      4926
+   macro avg       0.84      0.84      0.84      4926
+weighted avg       0.84      0.84      0.84      4926
+
 
 
 
