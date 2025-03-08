@@ -60,7 +60,7 @@ MinMaxScaler: Normalização das colunas no qual eu não utilizei LabelEncoder.
 OneHotEncoder: Para converter colunas com mais de duas categorias de string, para criar variáveis dummy.
 
 Rede Neural para Classificação
-EarlyStopping: Interrompe o treinamento quando a perda da validação não melhora por 15 épocas.
+EarlyStopping: Interrompe o treinamento quando a perda da validação não melhorar por 10 épocas.
 Estrutura da Rede: 2 camadas ocultas com 212 neurônios cada.
 Dropout: 50% para evitar o overfitting.
 Função de Ativação:
