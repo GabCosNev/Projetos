@@ -1,0 +1,47 @@
+Sobre o Conjunto de Dados
+Nota: Não se esqueça de votar positivamente se achar este conjunto útil.
+
+Visão Geral do Conjunto de Dados:
+O conjunto de dados Saúde do Sono e Estilo de Vida contém 400 linhas e 13 colunas, abrangendo diversas variáveis relacionadas ao sono e hábitos diários. Ele inclui detalhes como gênero, idade, ocupação, duração do sono, qualidade do sono, nível de atividade física, níveis de estresse, categoria de IMC, pressão arterial, frequência cardíaca, passos diários e a presença ou ausência de distúrbios do sono.
+
+Principais Características do Conjunto de Dados:
+✅ Métricas Abrangentes do Sono: Explore a duração do sono, qualidade e fatores que influenciam os padrões de sono.
+✅ Fatores de Estilo de Vida: Analise os níveis de atividade física, níveis de estresse e categorias de IMC.
+✅ Saúde Cardiovascular: Examine medições de pressão arterial e frequência cardíaca.
+✅ Análise de Distúrbios do Sono: Identifique a ocorrência de distúrbios do sono, como insônia e apneia do sono.
+
+Colunas do Conjunto de Dados:
+Person ID: Um identificador único para cada indivíduo.
+
+Gender: O gênero da pessoa (Masculino/Feminino).
+
+Age: A idade da pessoa em anos.
+
+Occupation: A ocupação ou profissão da pessoa.
+
+Sleep Duration (hours): Número de horas que a pessoa dorme por dia.
+
+Quality of Sleep (scale: 1-10): Avaliação subjetiva da qualidade do sono, variando de 1 a 10.
+
+Physical Activity Level (minutes/day): Quantidade de minutos diários que a pessoa se envolve em atividade física.
+
+Stress Level (scale: 1-10): Avaliação subjetiva do nível de estresse experimentado pela pessoa, variando de 1 a 10.
+
+BMI Category: Categoria de IMC da pessoa (ex.: Abaixo do Peso, Normal, Sobrepeso).
+
+Blood Pressure (systolic/diastolic): Medição da pressão arterial, indicada como pressão sistólica sobre pressão diastólica.
+
+Heart Rate (bpm): Frequência cardíaca em repouso da pessoa, medida em batimentos por minuto.
+
+Daily Steps: Número de passos que a pessoa dá por dia.
+
+Sleep Disorder: Presença ou ausência de um distúrbio do sono (Nenhum, Insônia, Apneia do Sono).
+
+Detalhes sobre a Coluna "Sleep Disorder" (Distúrbios do Sono):
+None (Nenhum): O indivíduo não apresenta nenhum distúrbio do sono específico.
+
+Insomnia (Insônia): O indivíduo tem dificuldade para adormecer ou permanecer dormindo, resultando em sono inadequado ou de baixa qualidade.
+
+Sleep Apnea (Apneia do Sono): O indivíduo sofre de pausas na respiração durante o sono, resultando em padrões de sono interrompidos e possíveis riscos à saúde.
+
+link: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
